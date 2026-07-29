@@ -1,0 +1,26 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Environment Variables
+backend/.env
+
+# Node Modules
+frontend/node_modules/
+
+# Vite Build
+frontend/dist/
+
+# Python Cache
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
